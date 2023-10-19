@@ -1,0 +1,17 @@
+{
+  "categories": {
+    "categorie1": {
+      "name": "Plafond",
+      "price_per_m2": 43,
+      "threshold_m2": 100,
+      "price_after_threshold": 37
+    },
+    "categorie2": {
+      "name": "Murs",
+      "price_per_m2": 50,
+      "threshold_m2": 100,
+      "price_after_threshold": 45
+    }
+  }
+}
+
