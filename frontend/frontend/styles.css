@@ -1,0 +1,40 @@
+/* #mainForm {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+#mainForm table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#mainForm td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#mainForm select {
+    width: 100%;
+}
+
+#mainForm button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#mainForm button:hover {
+    background-color: #0056b3;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+}
